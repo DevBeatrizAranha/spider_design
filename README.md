@@ -1,6 +1,6 @@
 # Spider Design Project
 
-This project is a clone of Figma, developed to learn and enhance my skills in React. It leverages modern web development technologies such as Next.js, Tailwind CSS, Liveblocks, and Docker. Additionally, it includes features for collaboration and contribution.
+This project is a clone of Figma, developed to learn and enhance my skills in React. It leverages modern web development technologies such as Next.js, Tailwind CSS, Liveblocks, and Docker. Additionally, it includes features for live collaboration and contribution.
 
 ## Technologies Used
 

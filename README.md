@@ -4,11 +4,12 @@ This project is a clone of Figma, developed to learn and enhance my skills in Re
 
 ## Technologies Used
 
-- **React**: A JavaScript library for building user interfaces.
-- **Next.js**: A React framework for server-rendered applications and static site generation.
-- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
-- **Liveblocks**: A set of tools and APIs to create real-time collaborative experiences.
-- **Docker**: A platform for developing, shipping, and running applications inside containers.
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white): A JavaScript library for building user interfaces.
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white): A React framework for server-rendered applications and static site generation.
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white): A utility-first CSS framework for rapidly building custom user interfaces.
+- ![Liveblocks](https://img.shields.io/badge/Liveblocks-000000?style=for-the-badge&logo=liveblocks&logoColor=white): A set of tools and APIs to create real-time collaborative experiences.
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white): A platform for developing, shipping, and running applications inside containers.
+
 
 ## Project Goals
 

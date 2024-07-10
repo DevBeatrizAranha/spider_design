@@ -4,7 +4,7 @@ This project is a clone of Figma, developed to learn and enhance my skills in Re
 
 ## Technologies Used
 
- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+ ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) 
  A JavaScript library for building user interfaces.
  
  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white) 
